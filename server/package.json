@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for Uber Clone",
+  "main": "index.js",
+  "author": "Paddie",
+  "license": "MIT"
+}
